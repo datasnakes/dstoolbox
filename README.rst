@@ -1,5 +1,5 @@
-.. image:: https://travis-ci.org/datasnakes/snakeutils.svg?branch=master
-    :target: https://travis-ci.org/datasnakes/snakeutils
+.. image:: https://travis-ci.com/datasnakes/snakeutils.svg?branch=master
+    :target: https://travis-ci.com/datasnakes/snakeutils
 
 snakeutils
 ==============================
